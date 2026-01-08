@@ -1,17 +1,32 @@
 
-This repository contains sample automation tests I have created
-using Playwright and Cypress. Tests demonstrate:
+# QA Automation Portfolio
 
-- UI navigation and interactions
-- API testing
-- Role-based selectors and assertions
-- Cross-browser and regression testing scenarios
+This repository contains sample automation tests I have created using Playwright and Cypress.
+These tests demonstrate core QA automation skills, including UI interactions, navigation,
+assertions, and regression testing.
 
-## Tools
+## Folder Structure
+
+- `playwright/` - Playwright automation tests
+- `cypress/` - Cypress automation tests
+
+## Tools Used
+
 - Playwright
 - Cypress
-- Postman (for API tests)
+- Postman (for API testing)
 
-## Notes
-These tests are examples of my automation work and can be run locally
-following the standard framework setup instructions.
+## Sample Tests
+
+### Playwright
+- Close cookies banner and navigate to pricing
+- Verify Docs page heading
+
+### Cypress
+- (Your Cypress tests go here)
+
+## How to Run
+
+1. Install dependencies:
+   ```bash
+   npm install
