@@ -2,7 +2,7 @@
 
 ##  About Me
 
-QA Analyst with 10+ years of experience in software quality assurance, specializing in **manual testing with hands-on automation support**. This repository reflects my real-world QA experience across web applications, APIs, data validation, and test automation using **Playwright, Cypress, Python, and Java**.
+QA Automation Engineer | 10+ Years | Agile & Automation Testing specializing in **manual testing with hands-on automation support**. This repository reflects my real-world QA experience across web applications, APIs, data validation, and test automation using **Playwright, Cypress, Python, and Java**.
 
 My focus is on **building quality into products early**, validating business requirements thoroughly, and using automation strategically to support regression and repeatable testing.
 
