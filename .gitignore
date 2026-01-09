@@ -1,7 +1,16 @@
-# Mac
+# =========================
+# OS / System
+# =========================
 .DS_Store
+Thumbs.db
 
+# =========================
+# Node / Cypress / Playwright
+# =========================
+
+# =========================
 # Java / Maven
+# =========================
 Java/target/
 Java/.classpath
 Java/.project
@@ -10,9 +19,9 @@ Java/.mvn/
 Java/test-output/
 Java/screenshots/
 
-# Node
-node_modules/
-
-# Logs
-*.log
-.DS_Store
+# =========================
+# IDEs
+# =========================
+.idea/
+.vscode/
+*.iml
