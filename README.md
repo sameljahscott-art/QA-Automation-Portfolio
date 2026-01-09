@@ -8,18 +8,6 @@ My focus is on **building quality into products early**, validating business req
 
 ---
 
-What This Repository Demonstrates
-
-* Strong **manual QA foundations** aligned with SDLC/STLC
-* Practical, hands-on **test automation examples** (not tutorials)
-* UI, functional, regression, and basic API validation coverage
-* Clean, readable test code suitable for team environments
-* Tooling commonly used in Agile/Scrum teams
-
-This portfolio directly supports the experience listed on my **resume and LinkedIn profile**.
-
----
-
 ##  Tools & Technologies
 
 ### Automation Frameworks
