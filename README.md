@@ -1,25 +1,43 @@
 # QA Automation Portfolio
 
-This repository contains automation tests written in **Playwright** (UI & navigation) and **Cypress**.  
-These tests demonstrate practical QA skills including functional validation, regression, and UI testing.
+Welcome to my QA Automation Portfolio!  
+I am a QA Analyst with **10+ years of experience** in manual and automation testing. This portfolio showcases my hands-on work in:
 
-## Folder Structure
+- **Playwright & Cypress** (UI automation, regression testing, cross-browser testing)
+- **Python scripts** (functional automation and input validation)
+- **Java automation** (test data generation)
 
-- `playwright/` – Playwright UI automation tests
-- `cypress/` – Cypress automation tests
+## Projects
 
-## Tools Used
+### 1. Playwright Automation
+- `example.spec.ts`, `fixture.spec.ts`, `testbyrow.spec.ts`
+- Automated UI workflows for web applications
+- Demonstrates browser fixtures, page creation, and element assertions
 
-- Playwright
-- Cypress
-- Postman (for API testing)
-- Git & GitHub (version control)
+### 2. Cypress Automation
+- `cypress_tests.spec.js`
+- UI and regression testing across multiple browsers
+- Includes automated API validation
 
-## Sample Playwright Tests
+### 3. Python Automation Scripts
+- `compound_interest.py`
+- Validates input fields and calculates compound interest
+- Includes reusable functions for automation testing
 
-- **Navigation Test**: Validate navigation from homepage to Docs page on Playwright.dev
-- **Cookies Banner Test**: Close cookies pop-ups and validate user interactions
-- **Browser Fixture Test**: Demonstrates context and page creation
+### 4. Java Automation Scripts
+- `TestDataGenerator.java`
+- Generates unique email addresses for test automation
+- Uses timestamp-based formatting for consistent and safe test data
+
+## How to Run
+1. Clone the repository:  
+   `git clone https://github.com/sameljahscott-art/QA-Automation-Portfolio.git`
+2. Follow language-specific instructions in each folder
+3. Explore automation scripts and test cases
+
+## Contact
+- Email: Sameljah@yahoo.com  
+- GitHub: [https://github.com/sameljahscott-art/QA-Automation-Portfolio](https://github.com/sameljahscott-art/QA-Automation-Portfolio)
 
 ## How to Run Playwright Tests
 
