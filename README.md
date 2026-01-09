@@ -1,53 +1,115 @@
 # QA Automation Portfolio
 
-Welcome to my QA Automation Portfolio!  
-I am a QA Analyst with **10+ years of experience** in manual and automation testing. This portfolio showcases my hands-on work in:
+##  About Me
 
-- **Playwright & Cypress** (UI automation, regression testing, cross-browser testing)
-- **Python scripts** (functional automation and input validation)
-- **Java automation** (test data generation)
+QA Analyst with 10+ years of experience in software quality assurance, specializing in **manual testing with hands-on automation support**. This repository reflects my real-world QA experience across web applications, APIs, data validation, and test automation using **Playwright, Cypress, Python, and Java**.
 
-## Projects
+My focus is on **building quality into products early**, validating business requirements thoroughly, and using automation strategically to support regression and repeatable testing.
 
-### 1. Playwright Automation
-- `example.spec.ts`, `fixture.spec.ts`, `testbyrow.spec.ts`
-- Automated UI workflows for web applications
-- Demonstrates browser fixtures, page creation, and element assertions
+---
 
-### 2. Cypress Automation
-- `cypress_tests.spec.js`
-- UI and regression testing across multiple browsers
-- Includes automated API validation
+What This Repository Demonstrates
 
-### 3. Python Automation Scripts
-- `compound_interest.py`
-- Validates input fields and calculates compound interest
-- Includes reusable functions for automation testing
+* Strong **manual QA foundations** aligned with SDLC/STLC
+* Practical, hands-on **test automation examples** (not tutorials)
+* UI, functional, regression, and basic API validation coverage
+* Clean, readable test code suitable for team environments
+* Tooling commonly used in Agile/Scrum teams
 
-### 4. Java Automation Scripts
-- `TestDataGenerator.java`
-- Generates unique email addresses for test automation
-- Uses timestamp-based formatting for consistent and safe test data
+This portfolio directly supports the experience listed on my **resume and LinkedIn profile**.
 
-## How to Run
-1. Clone the repository:  
-   `git clone https://github.com/sameljahscott-art/QA-Automation-Portfolio.git`
-2. Follow language-specific instructions in each folder
-3. Explore automation scripts and test cases
+---
 
-## Contact
-- Email: Sameljah@yahoo.com  
-- GitHub: [https://github.com/sameljahscott-art/QA-Automation-Portfolio](https://github.com/sameljahscott-art/QA-Automation-Portfolio)
+##  Tools & Technologies
 
-## How to Run Playwright Tests
+### Automation Frameworks
 
-1. Install dependencies:
-```bash
-npm install
-2. Run Tests:
-npx playwright test
-3. See result directly in the terminal or via HTML report:
-npx playwright show-report
+* **Playwright** – UI automation, browser fixtures, navigation and validation tests
+* **Cypress** – End-to-end UI testing, API validation, reusable test patterns
+
+### Programming & Scripting
+
+* **JavaScript / TypeScript** – Playwright & Cypress tests
+* **Python** – Logic validation, input handling, calculation-based test scripts
+* **Java** – Test data generation and utility-based testing examples
+
+### QA & Testing Skills
+
+* Manual Test Case Design & Execution
+* Functional, Regression, Smoke, and Sanity Testing
+* API Validation (Postman)
+* Cross-Browser & Cross-Platform Testing
+* Defect Tracking & Test Management (JIRA, Azure DevOps, TestRail)
+
+---
+
+## 📂 Repository Structure
+
+```
+QA-Automation-Portfolio/
+│
+├── Playwright/
+│   ├── example.spec.ts
+│   ├── fixture.spec.ts
+│   ├── navigation.spec.ts
+│   └── testbyrow.spec.ts
+│
+├── Cypress/
+│   └── cypress/e2e/
+│       └── (end-to-end and API automation examples)
+│
+├── Python/
+│   ├── compound.py
+│   ├── loginsystem.py
+│   ├── stock.py
+│   └── vending.py
+│
+├── Java/
+│   └── src/test/java/
+│       └── emailGenerator.java
+│
+└── README.md
+```
+
+---
+
+##  Highlights by Technology
+
+### Playwright
+
+* Browser and page fixture usage
+* Navigation and UI validation
+* Clean selector strategies
+* Async test handling
+
+### Cypress
+
+* End-to-end UI testing
+* API request validation
+* Reusable test patterns
+* Realistic test flows
+
+### Python
+
+* Input validation logic
+* Calculation-based test scenarios
+* Edge case handling
+
+### Java
+
+* Dynamic test data generation
+* Utility-style testing support
+* Clean, readable logic
+
+---
+
+##  Contact
+
+* **LinkedIn:** www.linkedin.com/in/rosesaletha-s-b98a961a
+* **GitHub:** [https://github.com/sameljahscott-art](https://github.com/sameljahscott-art)
+
+Thank you for reviewing my portfolio
+
 
 Notes
 These tests focus on readable, maintainable automation
