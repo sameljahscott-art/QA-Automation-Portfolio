@@ -15,6 +15,5 @@ test('validate first 100 articles are sorted from newest to oldest', async ({ pa
 
   // 4️ Assert that timestamps are already sorted
   expect(timestamps).toEqual(sorted);
-
   console.log('Timestamps are sorted from newest to oldest.');
 });

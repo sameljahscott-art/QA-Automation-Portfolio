@@ -4,7 +4,14 @@ test('Close cookies banner and navigate to pricing', async ({ page }) => {
   await page.goto('https://www.udemy.com/');
   
   // Example interaction
-  await page.getByTestId('plans-and-pricing-page-link').click();
+ const acceptButton = page.locator('text=Accept')
+
+if (await acceptButton.isVisible()) {
+  await acceptButton.click()
+}
+
+await page.click('text=Pricing')
+
 });
 
 test('Verify cookies banner presence', async ({ page }) => {
